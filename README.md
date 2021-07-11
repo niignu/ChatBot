@@ -1,3 +1,3 @@
 # ChatBot
-**IBM Watson assistance.
+IBM Watson assistance.
 book Recommander
