@@ -1,0 +1,1009 @@
+{
+  "intents": [
+    {
+      "intent": "article_computer",
+      "examples": [
+        {
+          "text": "Can you recommend a good computer article"
+        },
+        {
+          "text": "Can you tell me a good article about computers"
+        },
+        {
+          "text": "I like a computer article"
+        },
+        {
+          "text": "Is there a good computer article that was just releases?"
+        },
+        {
+          "text": "What computer article should I read?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "article_fantasy",
+      "examples": [
+        {
+          "text": "Can you recommend a fantasy quick read?"
+        },
+        {
+          "text": "Can you tell me a good trending fantasy article?"
+        },
+        {
+          "text": "Give me a fantasy article"
+        },
+        {
+          "text": "I like a fantasy article"
+        },
+        {
+          "text": "What's a good fantasy article?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "article_food",
+      "examples": [
+        {
+          "text": "Can you recommend a good article comparing international foods?"
+        },
+        {
+          "text": "I would like an article about food"
+        },
+        {
+          "text": "What is the best article about healthy eating?"
+        },
+        {
+          "text": "What's a good cooking article?"
+        },
+        {
+          "text": "What's the best article about Indian cuisine?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "article_history",
+      "examples": [
+        {
+          "text": "Can you recommend an article about early Egypt?"
+        },
+        {
+          "text": "Can you recommend an article about World War 2?"
+        },
+        {
+          "text": "I like a history article"
+        },
+        {
+          "text": "Tell me a good article about world history?"
+        },
+        {
+          "text": "What is a good article about African history?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "article_money",
+      "examples": [
+        {
+          "text": "Can you recommend a good article about stocks?"
+        },
+        {
+          "text": "Can you recommend a good financial book?"
+        },
+        {
+          "text": "I like a article about making money"
+        },
+        {
+          "text": "I there a good current article about making money"
+        },
+        {
+          "text": "What's a good investment article?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "article_politics",
+      "examples": [
+        {
+          "text": "Can you recommend a article about the Republicans?"
+        },
+        {
+          "text": "I like a article about politics"
+        },
+        {
+          "text": "Is there a good article about policies of the Democratic Party?"
+        },
+        {
+          "text": "What is the best article about politics in England?"
+        },
+        {
+          "text": "What's the best article about Indian politics?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "article_scifi",
+      "examples": [
+        {
+          "text": "Can you give me a science fiction article"
+        },
+        {
+          "text": "Can you recommend a good scifi article"
+        },
+        {
+          "text": "I like a science fiction article"
+        },
+        {
+          "text": "I like a scifi article"
+        },
+        {
+          "text": "What's a good science fiction article"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "article_selfimprove",
+      "examples": [
+        {
+          "text": "Can you tell me a good article about improving my life?"
+        },
+        {
+          "text": "I like a self improvement article"
+        },
+        {
+          "text": "What's a good article about self improvement?"
+        },
+        {
+          "text": "What's the best goal setting article?"
+        },
+        {
+          "text": "What's the best trending self improvement article?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_computer",
+      "examples": [
+        {
+          "text": "Can you recommend a good book about computers?"
+        },
+        {
+          "text": "I like a computer book"
+        },
+        {
+          "text": "I want a really good story about the evolution of computers"
+        },
+        {
+          "text": "What's a good book about the history of computers?"
+        },
+        {
+          "text": "What's the best computer book"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_fantasy",
+      "examples": [
+        {
+          "text": "Can you recommend a fantasy story?"
+        },
+        {
+          "text": "Can you tell me a good trending fantasy book?"
+        },
+        {
+          "text": "Give me a fantasy book"
+        },
+        {
+          "text": "I like a fantasy book"
+        },
+        {
+          "text": "What's a good fantasy book?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_food",
+      "examples": [
+        {
+          "text": "Can you recommend a good book comparing international foods?"
+        },
+        {
+          "text": "I would like an book about food"
+        },
+        {
+          "text": "What is the best book about healthy eating?"
+        },
+        {
+          "text": "What's a good cooking book?"
+        },
+        {
+          "text": "What's the best book about Indian cuisine?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_history",
+      "examples": [
+        {
+          "text": "Can you recommend an book about early Egypt?"
+        },
+        {
+          "text": "Can you recommend an book about World War 2?"
+        },
+        {
+          "text": "I like a history book"
+        },
+        {
+          "text": "Tell me a good book about world history?"
+        },
+        {
+          "text": "What is a good book about African history?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_long",
+      "examples": [
+        {
+          "text": "Can you recommend a good, long story."
+        },
+        {
+          "text": "I like a long book"
+        },
+        {
+          "text": "I like a long novel"
+        },
+        {
+          "text": "I need a good, long, story, that will last me all summer?"
+        },
+        {
+          "text": "What is a good book that will last a long time?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_money",
+      "examples": [
+        {
+          "text": "Can you recommend a good stock market book?"
+        },
+        {
+          "text": "I like a book about making money"
+        },
+        {
+          "text": "Is there a good book about investing?"
+        },
+        {
+          "text": "Is there a great financial book?"
+        },
+        {
+          "text": "What's the best stock book?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_politics",
+      "examples": [
+        {
+          "text": "Can you recommend a book about the Republicans?"
+        },
+        {
+          "text": "I like a book about politics"
+        },
+        {
+          "text": "Is there a good book about policies of the Democratic Party?"
+        },
+        {
+          "text": "What is the best book about politics in England?"
+        },
+        {
+          "text": "What's the best book about Indian politics?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_scifi",
+      "examples": [
+        {
+          "text": "Can you give me a science fiction book"
+        },
+        {
+          "text": "Can you recommend a good scifi book"
+        },
+        {
+          "text": "I like a science fiction book"
+        },
+        {
+          "text": "I like a scifi book"
+        },
+        {
+          "text": "What's a good science fiction book"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_selfimprove",
+      "examples": [
+        {
+          "text": "Can you tell me a good book about improving my life?"
+        },
+        {
+          "text": "I like a self improvement book"
+        },
+        {
+          "text": "What's a good book about self improvement?"
+        },
+        {
+          "text": "What's the best goal setting book?"
+        },
+        {
+          "text": "What's the best trending self improvement book?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "book_short",
+      "examples": [
+        {
+          "text": "Can you recommend a good, short story."
+        },
+        {
+          "text": "I like a short book"
+        },
+        {
+          "text": "I like a short novel"
+        },
+        {
+          "text": "I need a good, short, story, that I can read on the plane?"
+        },
+        {
+          "text": "What is a good book that won't take long to read?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hello",
+      "examples": [
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hello there"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hi there"
+        },
+        {
+          "text": "oy"
+        }
+      ],
+      "description": "hello"
+    },
+    {
+      "intent": "hi",
+      "examples": [
+        {
+          "text": "hello"
+        },
+        {
+          "text": "Hello there"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "Hi there!"
+        },
+        {
+          "text": "yo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "one",
+      "examples": [
+        {
+          "text": "one"
+        },
+        {
+          "text": "single"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "two"
+        },
+        {
+          "text": "uno"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "two",
+      "examples": [
+        {
+          "text": "both"
+        },
+        {
+          "text": "dos"
+        },
+        {
+          "text": "one"
+        },
+        {
+          "text": "the"
+        },
+        {
+          "text": "two"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "alternate_responses": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_5_1582040246957",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "one",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You chose one"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#one",
+      "user_label": "one",
+      "dialog_node": "node_10_1582039896349",
+      "previous_sibling": "node_6_1582040330964"
+    },
+    {
+      "type": "standard",
+      "title": "article_politics_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is your article about politics. (article_politics)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#article_politics",
+      "user_label": "politics article",
+      "dialog_node": "node_10_1582133662325",
+      "previous_sibling": "node_8_1582133720490"
+    },
+    {
+      "type": "standard",
+      "title": "book_computer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is a computer book. (book_computer)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_computer",
+      "user_label": "computer book",
+      "dialog_node": "node_1_1582049209157",
+      "previous_sibling": "node_6_1582049261648"
+    },
+    {
+      "type": "standard",
+      "title": "book_money_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is a book about money (book_money)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_money",
+      "user_label": "money book",
+      "dialog_node": "node_1_1582049324143",
+      "previous_sibling": "node_2_1582049373395"
+    },
+    {
+      "type": "standard",
+      "title": "article_money_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is your article about money. (article_money)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#article_money",
+      "user_label": "money article",
+      "dialog_node": "node_1_1582133629623",
+      "previous_sibling": "node_10_1582133662325"
+    },
+    {
+      "type": "standard",
+      "title": "article_selfimprove_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is an article about self improvement. (article_selfimprove)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#article_selfimprove",
+      "user_label": "self improve article",
+      "dialog_node": "node_1_1582134460437",
+      "previous_sibling": "node_2_1582134542638"
+    },
+    {
+      "type": "standard",
+      "title": "book_history_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is a history book (book_history)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_history",
+      "user_label": "history book",
+      "dialog_node": "node_2_1582049297943",
+      "previous_sibling": "node_1_1582049324143"
+    },
+    {
+      "type": "standard",
+      "title": "book_scifi_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is your scify book (book_scifi)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_scifi",
+      "user_label": "scify book",
+      "dialog_node": "node_2_1582049373395",
+      "previous_sibling": "node_3_1582049417508"
+    },
+    {
+      "type": "standard",
+      "title": "article_computer_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is your computer article (article_computer)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#article_computer",
+      "user_label": "computer article",
+      "dialog_node": "node_2_1582133481345",
+      "previous_sibling": "node_7_1582133509246"
+    },
+    {
+      "type": "standard",
+      "title": "article_food_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is an article about food. (article_food)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#article_food",
+      "user_label": "food article",
+      "dialog_node": "node_2_1582134542638",
+      "previous_sibling": "node_3_1582134595076"
+    },
+    {
+      "type": "standard",
+      "title": "book_selfimprove_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is your self improvement book"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_selfimprove",
+      "user_label": "self improve book",
+      "dialog_node": "node_3_1582049417508",
+      "previous_sibling": "node_5_1582049713134"
+    },
+    {
+      "type": "standard",
+      "title": "book_food_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is a book about food. (book_food)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_food",
+      "user_label": "food book",
+      "dialog_node": "node_3_1582134595076",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "two",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You chose two"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#two",
+      "user_label": "two",
+      "dialog_node": "node_5_1582040246957",
+      "previous_sibling": "node_10_1582039896349"
+    },
+    {
+      "type": "standard",
+      "title": "book_politics_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is a book about politics. (book_politics)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_politics",
+      "user_label": "politics book",
+      "dialog_node": "node_5_1582049713134",
+      "previous_sibling": "node_8_1582050051508"
+    },
+    {
+      "type": "standard",
+      "title": "book_short_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is a short book. (book_short)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_short",
+      "user_label": "short book",
+      "dialog_node": "node_5_1582050079858",
+      "previous_sibling": "node_2_1582133481345"
+    },
+    {
+      "type": "standard",
+      "title": "hi",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "hi"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hi",
+      "user_label": "hi",
+      "dialog_node": "node_6_1582040330964",
+      "previous_sibling": "node_6_1582040347726"
+    },
+    {
+      "type": "standard",
+      "title": "hello",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "hello"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hello",
+      "user_label": "hello",
+      "dialog_node": "node_6_1582040347726",
+      "previous_sibling": "node_1_1582049209157"
+    },
+    {
+      "type": "standard",
+      "title": "book_fantasy_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is a fantasy book. (book_fantasy)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_fantasy",
+      "user_label": "fantasy book",
+      "dialog_node": "node_6_1582049261648",
+      "previous_sibling": "node_2_1582049297943"
+    },
+    {
+      "type": "standard",
+      "title": "article_fantasy_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is your fantasy article. (article_fantasy)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#article_fantasy",
+      "user_label": "fantasy article",
+      "dialog_node": "node_7_1582133509246",
+      "previous_sibling": "node_9_1582133556135"
+    },
+    {
+      "type": "standard",
+      "title": "book_long_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is a long book. (book_long)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#book_long",
+      "user_label": "long book",
+      "dialog_node": "node_8_1582050051508",
+      "previous_sibling": "node_5_1582050079858"
+    },
+    {
+      "type": "standard",
+      "title": "article_scifi_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is your article about scifi. (article_scifi)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#article_scifi",
+      "user_label": "scifi article",
+      "dialog_node": "node_8_1582133720490",
+      "previous_sibling": "node_1_1582134460437"
+    },
+    {
+      "type": "standard",
+      "title": "article_history_dialog",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is your history article. (article_history)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#article_history",
+      "user_label": "history article",
+      "dialog_node": "node_9_1582133556135",
+      "previous_sibling": "node_1_1582133629623"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "auto_learn": {
+      "apply": false
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "alternate_responses": {
+      "enabled": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": true,
+  "name": "Book Recommender",
+  "language": "en",
+  "description": ""
+}
